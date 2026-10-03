@@ -168,3 +168,14 @@ social-media-sentiment-network-analysis/
 ├── Social_Media_Sentiment_Network_Analysis.ipynb
 ├── Social_Media_Sentiment_Network_Analysis_Presentation.pdf
 └── README.md
+```
+---
+
+## Internship
+
+Developed as part of the **SkilledScore Data Visualization Internship**.
+
+**Supervisor:** Dr. Zeeshan Usmani  
+**Intern:** Usman Ali
+
+---
